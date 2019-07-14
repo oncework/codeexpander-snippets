@@ -1,5 +1,7 @@
 name: snippets-javascript
 description: 'A snippet pack to make you more productive working with JavaScript'
+gist: 
+    - { default: 'https://gist.github.com/Dillon-Xu/943076d6a28867ca9d57434c4255fd6f' }
 repository: 'https://github.com/oncework/snippets-javascript'
 screenshots:
     - {imageUrl: 'https://github.com/oncework/snippets-javascript/blob/master/assets/snippets-javascript.png?raw=true'}
