@@ -1,0 +1,18 @@
+{
+  "snippets-javascript": {
+    "faintColorOnWhite": "rgba(128, 109, 5, 0.1)",
+    "goodColorOnBlack": "#FCF0B0",
+    "goodColorOnWhite": "#806D05",
+    "palette": [
+      "#f4dc4c",
+      "#fcfbfb",
+      "#f4e990",
+      "#f4de68",
+      "#fcf0b0"
+    ],
+    "source": {
+      "path": "apps/snippets-javascript/snippets-javascript-icon.png",
+      "revHash": "3b979b10db"
+    }
+  }
+}

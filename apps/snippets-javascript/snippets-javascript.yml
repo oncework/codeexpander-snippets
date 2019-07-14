@@ -1,0 +1,8 @@
+name: snippets-javascript
+description: 'A snippet pack to make you more productive working with JavaScript'
+repository: 'https://github.com/oncework/snippets-javascript'
+screenshots:
+    - {imageUrl: 'https://github.com/oncework/snippets-javascript/blob/master/assets/snippets-javascript.png?raw=true'}
+keywords:
+    - snippets, javascript
+category: Snippets
